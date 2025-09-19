@@ -13,10 +13,10 @@ digraph {
   F -> C;
   F -> J;
   G -> D;
-  G -> H;
+  G -> I;
   H -> E;
-  H -> G;
   H -> I;
+  I -> G;
   I -> H;
   I -> J;
   J -> F;
